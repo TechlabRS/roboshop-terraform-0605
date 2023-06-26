@@ -6,7 +6,7 @@ default_vpc_cidr = "172.31.0.0/16"
 default_vpc_rtid = "rtb-0485ef85ec2fd9078"
 kms_arn          = "arn:aws:kms:us-east-1:351461694738:key/6bde45a8-ffd6-43dd-9674-c52cdbeaa16d"
 domain_name      = "uknowme.tech"
-domain_id        = "Z03986262CQPCHNJNZM9L"
+domain_id        = "Z05871751GR29DTOMKKBG"
 
 
 vpc = {
