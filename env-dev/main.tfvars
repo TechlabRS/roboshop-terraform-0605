@@ -4,9 +4,9 @@ bastion_cidr     = ["172.31.11.111/32"]
 default_vpc_id   = "vpc-006019c96e38ae4be"
 default_vpc_cidr = "172.31.0.0/16"
 default_vpc_rtid = "rtb-0485ef85ec2fd9078"
-kms_arn          = "arn:aws:kms:us-east-1:351461694738:key/6bde45a8-ffd6-43dd-9674-c52cdbeaa16d"
+kms_arn          = "arn:aws:kms:us-east-1:351461694738:key/1133668a-a5bd-4092-8de8-8155d841df3e"
 domain_name      = "uknowme.tech"
-domain_id        = "Z05871751GR29DTOMKKBG"
+domain_id        = "Z053670010M77AXVWKSH8"
 
 
 vpc = {
